@@ -1,2 +1,4 @@
-# cpp-debug
-Build/Run/Debug C++ Project (multiple source files) with Codespaces
+# StringArray class
+
+This project includes a class, *StringArray*, that encapsulates the idea
+of a dynamic array of strings.
